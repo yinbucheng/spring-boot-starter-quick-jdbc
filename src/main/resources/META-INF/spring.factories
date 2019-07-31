@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.bucheng.jdbc.config.DruidConfig,\
+  cn.bucheng.jdbc.config.MybatisPlusConfig
